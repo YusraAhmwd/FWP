@@ -1,0 +1,33 @@
+.AB{
+    background-color: aquamarine;
+}
+.icon{
+    text-align: left;
+    float: left;
+}
+body{
+    background-color: rgb(158, 202, 185);
+}
+.cover{
+    background-color: rgb(210, 219, 191);
+}
+.cover-container{
+    background-image: url(co2.jpg);
+}
+.lead{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cover-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+container{
+    background-color: rgb(210, 219, 191);
+
+}
+.p-4{
+    background-color: rgb(210, 219, 191);
+
+}
+.display-4{
+    background-color: rgb(129, 170, 158);
+}
